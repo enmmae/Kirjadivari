@@ -1,6 +1,6 @@
 # Kirjadivari
 
-Tämä sovellus on toteutettu _Tampereen yliopiston_ tietokantaohjelmointi -kurssin harjoitystyönä keväällä 2018. HTML osiot ja t8.php tiedosto on tehty parityönä.
+Tämä sovellus on toteutettu _Tampereen yliopiston_ tietokantaohjelmointi -kurssin harjoitustyönä keväällä 2018. HTML osiot ja t8.php tiedosto on tehty parityönä.
 
 Sivuston ideana on simuloida kirjadivarien toimintaa, jossa keskusdivari tarjoaa tietokantapalveluja, joihin yksittäinen divari voi tallentaa ja käsitellä teoksiin liittyviä tietoja. Tässä ei ole toteutettu erillisiä tietokantoja yksittäisille divareille, vaan niille on luotu omat skeemat. Keskusdivarilla ei tässä ole omaa myyntitoimintaa, vaan se vain vastaa yhteisestä tietokannasta ja palveluista, ja pitää yllä asiakasrekisteriä. Sivusto toimii hieman eri tavoin kunkin divarin ylläpitäjälle, ja eri tavoin myös sivuston asiakkaille.
 
